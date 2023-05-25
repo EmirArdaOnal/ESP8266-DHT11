@@ -83,7 +83,7 @@ void handle_NotFound() {
 String SendHTML(float Temperaturestat, float Humiditystat) {
   String ptr = "<!DOCTYPE html> <html>\n";
   ptr += "<head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=no\">\n";
-  ptr += "<title>11AE41</title>\n";
+  ptr += "<title>Tests</title>\n";
   ptr += "</head>\n";
   ptr += "<body>\n";
   ptr += "<div id=\"webpage\">\n";
